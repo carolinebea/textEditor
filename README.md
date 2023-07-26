@@ -10,6 +10,8 @@
 6. [Contact](#contact)
 ## Description:
 This is a text editing app used to store text notes with or without internet.
+https://texteditorcb2023-79fb976df89c.herokuapp.com/
+
 ## Usage
 You use the text box to create new notes, and when you reload your page your previously entered notes remain available. You can edit existing notes and upon reload the notes are updated to most recent changes.
 ## Contributions 
